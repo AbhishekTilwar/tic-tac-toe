@@ -1,4 +1,5 @@
-// A C++ Program to play tic-tac-toe
+// A C++ Program to play tic-tac-toe game.
+// It does not have UI just a console game
 
 #include<bits/stdc++.h>
 using namespace std;
